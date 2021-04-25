@@ -14,6 +14,6 @@ Requisitos:
     </br>
     1. Valores não aceitáveis para a opção *Quantidade de senhas*: zero ou maior que 99
     </br>
-    3. Valores não aceitáveis para a opção *Total de caracteres*: zero ou maior que 16
+    2. Valores não aceitáveis para a opção *Total de caracteres*: zero ou maior que 16
     
     
