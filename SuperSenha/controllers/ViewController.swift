@@ -75,7 +75,7 @@ class ViewController: UIViewController {
             temQuantidadeDeCaracteresValida() {
         performSegue(withIdentifier: "ShowList", sender: nil)
         } else {
-            showAlert(message: "problema com ")
+            showAlert(message: "problema com o preenchimento.")
         }
     }
 
