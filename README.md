@@ -17,4 +17,4 @@ Requisitos:
     2. Valores não aceitáveis para a opção *Total de caracteres*: zero ou maior que 16
     
    </br>
-   <img src="super.gif" alt="Um exemplo da tela" width="328" height="708">
+   <img src="super.gif" alt="Um exemplo da tela" width="219" height="472">
